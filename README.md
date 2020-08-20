@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #gP0
 ├── RESULT
 ├── build
@@ -23,4 +24,13 @@ intermediate result from 'src'
 include simple binary and source files
 
 
+=======
+# gP1
+build Cross Compiler&kernel for 
+
+host : x86_64, ubuntu 18 
+target : old powerpc, mpc8260
+
+pinmap for powerpc will be posted
+>>>>>>> 55d9031545c850fca33aacbdecff6d744f866ee2
 
